@@ -85,3 +85,6 @@ AI 모델은 플랫폼 업로드에 최적화된 다음과 같은 JSON 구조로
   "keywords": "seaweed snacks, nori sheets, healthy vegan snacks, keto food, korean bbq"
 }
 ```
+
+## 7. 실행 화면
+<img width="1268" height="658" alt="스크린샷 2026-02-09 051343" src="https://github.com/user-attachments/assets/ff228f64-3ca7-4671-96d7-6918340f3831" />
